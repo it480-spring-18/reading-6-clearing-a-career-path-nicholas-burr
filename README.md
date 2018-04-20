@@ -14,7 +14,11 @@ Questions
 ---------
 
 1. What's the main reason that people leave a career in testing, according to the article? (Bear in mind it was written in 2000!) **Answer:**
+	The article believed that devolpers believed that sowftware testing was a dead-end job or stepping stone to moving up the ladder.
+	The problem was compounded by the increase in new testers without enough managers.
+
 1. What are the stages in their proposed career path for testers? **Answer:**
+	Apprenticeship, Mastery, Specialization, Lead test specialist, Enterprise software test engineer.
 
 Prerequisites
 -------------
